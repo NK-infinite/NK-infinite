@@ -3,12 +3,13 @@ Hi, I'm Nikhil Keshvala 👋
  About Me:
  
   - 🌐 I’m currently studying B.Sc IT at Sarvajanik University.
-  - 💻 I specialize in Flutter Development and have larnig in backend development.
+  - 💻 I specialize in Flutter Development 
   - 📚 I have been working with Flutter for over one year, continuously updating my skills in this area.
  
  Skills:
   - Flutter Development (Mobile and Web)
-  - Backend Development (Using technologies like Firebase, Postman etc.)
+  - Rest Api
+    
   
   
  Contact Me:
